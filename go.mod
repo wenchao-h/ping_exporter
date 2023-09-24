@@ -48,3 +48,5 @@ require (
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
+
+replace github.com/digineo/go-ping v1.0.1 => github.com/wenchao-h/go-ping v1.0.3

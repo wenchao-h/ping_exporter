@@ -22,8 +22,6 @@ github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/digineo/go-logwrap v0.0.0-20181106161722-a178c58ea3f0 h1:OT/LKmj81wMymnWXaKaKBR9n1vPlu+GC0VVKaZP6kzs=
 github.com/digineo/go-logwrap v0.0.0-20181106161722-a178c58ea3f0/go.mod h1:DmqdumeAKGQNU5E8MN0ruT5ZGx8l/WbAsMbXCXcSEts=
-github.com/digineo/go-ping v1.0.1 h1:Yn9hwM0RY4j4D3gcmLvRJf0d7MrbucfUhnOeVDvcVyk=
-github.com/digineo/go-ping v1.0.1/go.mod h1:uCbFC0VUqGNBNiev44BGSxfOrEAmC73GjpRje1l40Zo=
 github.com/fatih/color v1.10.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGEBuJM=
 github.com/frankban/quicktest v1.14.0 h1:+cqqvzZV87b4adx/5ayVOaYZ2CrvM4ejQvUdBzPPUss=
 github.com/frankban/quicktest v1.14.0/go.mod h1:NeW+ay9A/U67EYXNFA1nPE8e/tnQv/09mUdL/ijj8og=
@@ -94,6 +92,8 @@ github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81P
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
+github.com/wenchao-h/go-ping v1.0.3 h1:KOiLWf+UHBxK2c4B/NLjQah26ZcgHoZbJApUBp0GyWw=
+github.com/wenchao-h/go-ping v1.0.3/go.mod h1:tpikDS8sl73uN9GmVVaY7fz7rZcMiUsYDZPT/nLwyeY=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
 github.com/x448/float16 v0.8.4/go.mod h1:14CWIYCyZA/cWjXOioeEpHeN/83MdbZDRQHoFcYsOfg=
 go4.org/intern v0.0.0-20211027215823-ae77deb06f29 h1:UXLjNohABv4S58tHmeuIZDO6e3mHpW2Dx33gaNt03LE=
